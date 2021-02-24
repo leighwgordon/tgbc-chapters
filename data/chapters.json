@@ -3,26 +3,104 @@
         {
             "geometry": {
                 "coordinates": [
-                    144.988015,
-                    -37.855838
+                    153.100712,
+                    -30.367708
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Windsor - 89 Albert St, Windsor VIC 3181"
+                "popupContent": "Coffs Harbour - 63 First Ave, Sawtell NSW 2452"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    144.4495721,
-                    -37.244402
+                    153.275438,
+                    -28.802559
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Kyneton - 57 Piper St, Kyneton VIC 3444"
+                "popupContent": "Lismore - 72 Bridge St, North Lismore NSW 2480"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.747234,
+                    -32.92151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Newcastle - 76 Beaumont St, Hamilton NSW 2303"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.221108,
+                    -28.595682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Nimbin - 53 Cullen St, Nimbin NSW 2480"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.693339,
+                    -33.750908
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Penrith - 9 Station St, Penrith NSW 2750"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.159469,
+                    -33.896692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Petersham - 292-294 Stanmore Rd, Petersham NSW 2049"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.211161,
+                    -33.887521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Sydney City - 200 Devonshire St, Surry Hills NSW 2010"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.940377,
+                    -34.301443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Wollongong - Headland Ave & Yuruga St, Austinmer NSW 2515"
             },
             "type": "Feature"
         },
@@ -42,182 +120,26 @@
         {
             "geometry": {
                 "coordinates": [
-                    146.78706,
-                    -37.980736
+                    153.035506,
+                    -27.457843
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Heyfield - 24 George Street, Heyfield VIC 3858"
+                "popupContent": "Fortitude Valley - 702 Ann St, Fortitude Valley QLD 4006"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    153.2754378,
-                    -28.8025586
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Lismore - 72 Bridge St, North Lismore NSW 2480"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    147.0748311,
-                    -37.8440715
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Briagolong - 61 Avon St, Briagolong VIC 3860"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    144.8908197,
-                    -37.8165396
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Yarraville - 18A Anderson St, Yarraville VIC 3013"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    147.3243683,
-                    -42.9813916
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Kingston - 32 Osborne Esplanade, Kingston Beach TAS 7050"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    153.4298647,
-                    -28.0120655
+                    153.429865,
+                    -28.012065
                 ],
                 "type": "Point"
             },
             "properties": {
                 "popupContent": "Gold Coast - 2923 Gold Coast Hwy, Surfers Paradise QLD 4217"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    143.857178,
-                    -37.55057
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Ballarat - 502 Doveton St N, Soldiers Hill VIC 3350"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    153.012174,
-                    -27.480777
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "West End - 150 Boundary St, West End QLD 4101"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    115.859975,
-                    -31.95482
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Perth - 43 Barrack St, Perth WA 6000"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    144.2834288,
-                    -36.7527061
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Bendigo - 49 Bridge St, Bendigo VIC 3550"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    150.515477,
-                    -23.3796944
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Rockhampton - 228 Quay St, Rockhampton QLD 4700"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    144.903962,
-                    -37.863157
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Williamstown - 161 Nelson Pl, Williamstown VIC 3016"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.9544101,
-                    -27.5556282
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Toowoomba - 296 Ruthven St, Toowoomba City QLD 4350"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    144.2142044,
-                    -37.0560783
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Castlemaine - 9 Walker St, Castlemaine VIC 3450"
             },
             "type": "Feature"
         },
@@ -230,72 +152,46 @@
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Redlands - \n8/18-24 Middle St, Cleveland QLD 4163"
+                "popupContent": "Redlands - 8/18-24 Middle St, Cleveland QLD 4163"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    149.131062,
-                    -35.2783555
+                    150.51028,
+                    -23.382454
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Canberra - 131 City Walk, Canberra ACT 2601"
+                "popupContent": "Rockhampton - 114 William Street Rockhampton QLD 4700"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    147.1378465,
-                    -41.439398
+                    151.952423,
+                    -27.558743
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Launceston - 33 Kingsway, Launceston TAS 7250"
+                "popupContent": "Toowoomba - 59 Russell St, Toowoomba City QLD 4350"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    144.362345,
-                    -38.165291
+                    153.010671,
+                    -27.480919
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Geelong - 221 Swanston St, Geelong VIC 3220"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    144.894355,
-                    -37.799309
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Footscray - 295 Barkly St, Footscray VIC 3011"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    144.9589808,
-                    -37.7667625
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "popupContent": "Brunswick - 380 Victoria St, Brunswick VIC 3056"
+                "popupContent": "West End - 69 Vulture St, West End QLD 4101"
             },
             "type": "Feature"
         },
@@ -315,91 +211,351 @@
         {
             "geometry": {
                 "coordinates": [
-                    151.211161,
-                    -33.887521
+                    147.324368,
+                    -42.981392
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Sydney - 200 Devonshire St, Surry Hills NSW 2010"
+                "popupContent": "Kingston - 32 Osborne Esplanade, Kingston Beach TAS 7050"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    153.0344344,
-                    -27.4582085
+                    147.143951,
+                    -41.430909
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Fortitude Valley - 321 Brunswick St, Fortitude Valley QLD 4006"
+                "popupContent": "Launceston - 23 Lawrence St, Launceston TAS 7250"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    144.9604638,
-                    -37.8162072
+                    149.131062,
+                    -35.278356
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Melbourne City - 427 Little Collins St, Melbourne VIC 3000"
+                "popupContent": "Canberra - 131 City Walk, Canberra ACT 2601"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    144.9850135,
-                    -37.8087997
+                    144.830649,
+                    -37.867988
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Collingwood Original - 61-65 Victoria Parade, Collingwood VIC 3066"
+                "popupContent": "Altona - 78 Pier St, Altona VIC 3018"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    -122.644528,
-                    45.558879
+                    143.855902,
+                    -37.55971
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Portland - 2006 NE Alberta St, Portland, OR 97211, USA"
+                "popupContent": "Ballarat South - 315-317 Mair St, Ballarat Central VIC 3350"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    -71.1972435,
-                    42.3132882
+                    143.857178,
+                    -37.55057
                 ],
                 "type": "Point"
             },
             "properties": {
-                "popupContent": "Boston - TBC"
+                "popupContent": "Ballarat North - 502 Doveton St N, Soldiers Hill VIC 3350"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    130.7932218,
-                    -12.4258646
+                    144.283429,
+                    -36.752706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Bendigo - 49 Bridge St, Bendigo VIC 3550"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.074831,
+                    -37.844071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Briagolong - 61 Avon St, Briagolong VIC 3860"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.961082,
+                    -37.774874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Brunswick - 27 Weston St, Brunswick VIC 3056"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.214204,
+                    -37.056078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Castlemaine - 9 Walker St, Castlemaine VIC 3450"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.989819,
+                    -37.796508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Collingwood Original - 66 Gold St, Collingwood VIC 3066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.894355,
+                    -37.799309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Footscray - 295 Barkly St, Footscray VIC 3011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.145915,
+                    -37.713617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Eltham - 965 Main Rd, Eltham VIC 3095"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.362345,
+                    -38.165291
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Geelong - 221 Swanston St, Geelong VIC 3220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.025679,
+                    -37.742478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Hamilton - 64 Lonsdale St, Hamilton VIC 3300"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.78706,
+                    -37.980736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Heyfield - 24 George Street, Heyfield VIC 3858"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.955231,
+                    -37.816868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Melbourne City - 629 Bourke St, Melbourne VIC 3000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.031192,
+                    -38.218523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Mornington - 770 Esplanade, Mornington VIC 3931"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.965657,
+                    -37.820243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Southbank VIC - MR5/3 Southgate Ave, Southbank VIC 3006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.903962,
+                    -37.863157
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Williamstown - 161 Nelson Pl, Williamstown VIC 3016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.988015,
+                    -37.855838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Windsor - 89 Albert St, Windsor VIC 3181"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.890697,
+                    -37.816781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Yarraville - 35 Anderson St, Yarraville VIC 3013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    115.853879,
+                    -31.951447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Perth - 397 Murray St, Perth WA 6000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.793222,
+                    -12.425865
                 ],
                 "type": "Point"
             },
             "properties": {
                 "popupContent": "Darwin - Darwin, Australia"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.652349,
+                    45.522785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Portland, USA - 1306 E Burnside St, Portland, OR 97214, United States"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.070249,
+                    51.544576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Hackney, UK - 40 Parkholme Rd, London E8 3AG, UK"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    170.968815,
+                    -45.101251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "Oamaru, NZ - 12 Thames Street, Oamaru, New Zealand 9400"
             },
             "type": "Feature"
         }

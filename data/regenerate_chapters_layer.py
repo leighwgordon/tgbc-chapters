@@ -14,8 +14,13 @@ MAP_PATTERN = re.compile(r"^https://www\.google\.com?(\.[^/]+)?/maps/place/[^/]+
 
 
 def get_chapter_feature(city):
-    chapter = city.find('h4').contents[0]
+    chapter = city.find('h5').contents[0]
     address = city.select_one('a[href*="/maps/place/"]')
+
+    if not address:
+        logging.warning("Skipping '{}' chapter, missing maps URL".format(chapter))
+        return None
+
 
     try:
         matches = MAP_PATTERN.match(address['href']).groupdict()
